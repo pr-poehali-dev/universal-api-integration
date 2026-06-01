@@ -1,7 +1,7 @@
-import { LandingPage } from '@/components/landing'
+import MarketingReport from './MarketingReport'
 
 const Index = () => {
-  return <LandingPage />
+  return <MarketingReport />
 }
 
 export default Index
